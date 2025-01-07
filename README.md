@@ -17,5 +17,6 @@ O vídeo mostra Papai Noel falando uma linda mensagem.
 
 ## 💭 Reflexão (Opcional)
 Foi um grande desafio e muito aprendizado, pois nunca utilizei esses recurso de IA.
-```
+
+https://studio.d-id.com/share?id=d520e9af8c9fcfd2150b08e373350b00&utm_source=copy
 
